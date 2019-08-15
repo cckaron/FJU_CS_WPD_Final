@@ -1,0 +1,11 @@
+五種球 -> 加分4種，扣分1種，比例設為 4:1
+
+雙人對戰 -> 角色2個，限時 2 min -> Create Two Thread()
+         -> 角色會變大 Thread.size compare and Thread.center compare 
+         -> 傳送陷阱 -> if Thread.size smaller than other, than move
+
+計分板 -> 1P v.s. 2P -> 吃對方加__分
+
+
+
+
